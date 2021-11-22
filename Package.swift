@@ -12,7 +12,7 @@ let package = Package(
         .target(
             name: "MMNumberKeyboard",
             dependencies: [],
-            path: "MMNumberKeyboard"
+            path: "Classes"
         )
     ]
 )
